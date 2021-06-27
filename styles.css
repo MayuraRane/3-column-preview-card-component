@@ -3,14 +3,10 @@ body {
   background-color: hsla(0, 0%, 100%, 0.75);
   font-family: "Lexend Deca", sans-serif;
 }
-a {
-  text-decoration: none;
-}
 button {
   border-radius: 28px;
   font-family: "Lexend Deca", sans-serif;
-  background-color: hsl(0, 0%, 95%);
-  border: 0;
+  border: 2px solid hsl(0, 0%, 95%);
   padding: 1rem;
   margin-bottom: 0;
   margin-top: 60px;
@@ -22,7 +18,7 @@ button {
 button:hover {
   cursor: pointer;
   color: hsl(0, 0%, 95%) !important;
-  border: 1px solid hsl(0, 0%, 95%);
+  border: 2px solid hsl(0, 0%, 95%);
 }
 
 h1 {
@@ -45,15 +41,16 @@ p {
 /*---------------------------Classes------------------------------------------*/
 .attribution {
   text-align: center;
-  margin-top: 3rem;
+  /* margin-bottom: 3rem; */
 }
 .flex-container {
   display: flex;
   width: 72%;
-  height: 32rem;
+  height: auto;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 6%;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 .sedan {
@@ -94,4 +91,33 @@ p {
 
 .luxury button:hover {
   background-color: hsl(179, 100%, 13%);
+}
+
+@media only screen and (max-width: 800px) {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .sedan {
+    border-radius: 8px 8px 0 0;
+  }
+  .luxury {
+    border-radius: 0 0 8px 8px;
+  }
+  p {
+    margin-top: 2rem;
+  }
+  button {
+    margin-top: 2rem;
+  }
+  .attribution {
+    display: block;
+  }
 }
