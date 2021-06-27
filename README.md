@@ -29,13 +29,13 @@ Users should be able to:
 ### Screenshot
 
 Desktop view:
-file:///home/mayura/Desktop/Frontend%20Mentor/3-column%20preview%20card%20component/design/3-column-preview-card-desktop.png
+![Alt text] (https://github.com/MayuraRane/3-column-preview-card-component/blob/master/design/3-column-preview-card-desktop.png?raw=true "Desktop View)
 
 Hover state:
-file:///home/mayura/Desktop/Frontend%20Mentor/3-column%20preview%20card%20component/design/3%20column%20preview%20active.png
+![Alt text] (https://github.com/MayuraRane/3-column-preview-card-component/blob/master/design/3%20column%20preview%20active.png?raw=true "Hover State")
 
 Mobile view:
-file:///home/mayura/Desktop/Frontend%20Mentor/3-column%20preview%20card%20component/design/3-column-preview-card-mobile.png
+![Alt text] (https://github.com/MayuraRane/3-column-preview-card-component/blob/master/design/3-column-preview-card-mobile.png?raw=true "Mobile View")
 
 
 ### Links
