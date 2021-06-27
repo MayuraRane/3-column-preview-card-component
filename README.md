@@ -29,26 +29,15 @@ Users should be able to:
 
 ### Screenshot
 
-<<<<<<< HEAD
 Desktop View:
 ![Desktop view](./design/3-column-preview-card-desktop.png)
 
 Hover State:
-![Hover state](./design/3-column-preview-active.png)
+![Hover state](./design/3-column-preview-active.png) 
 
 Mobile View:
-![Mobile view](./design/3-column-preview-card-mobile.png)
-=======
-Desktop view:
-![Alt text] (https://github.com/MayuraRane/3-column-preview-card-component/blob/master/design/3-column-preview-card-desktop.png?raw=true "Desktop View)
 
-Hover state:
-![Alt text] (https://github.com/MayuraRane/3-column-preview-card-component/blob/master/design/3%20column%20preview%20active.png?raw=true "Hover State")
-
-Mobile view:
-![Alt text] (https://github.com/MayuraRane/3-column-preview-card-component/blob/master/design/3-column-preview-card-mobile.png?raw=true "Mobile View")
->>>>>>> 0deb7b1f2c908b28cb0b48e60a8ef98f54594b1e
-
+<img src="https://github.com/MayuraRane/3-column-preview-card-component/blob/master/design/3-column-preview-card-mobile.png?raw=true" alt="mobile-view" height="750">
 
 ### Links
 
