@@ -40,9 +40,7 @@ Mobile View:
 <img src="https://github.com/MayuraRane/3-column-preview-card-component/blob/master/design/3-column-preview-card-mobile.png?raw=true" alt="mobile-view" height="750">
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://3-column-preview-card-component-hcanfbie2-mayurarane.vercel.app/)
 
 ## My process
 
